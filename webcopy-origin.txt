@@ -1,0 +1,104 @@
+Uri: https://app2.oneclicktemplate.com/
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\index.htm
+Content Type: text/html
+
+Uri: https://app2.oneclicktemplate.com/favicon.ico
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/0e762574-c58ee69055902528.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\0e762574-c58ee69055902528.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/117-d5ee4a225a576a9c.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\117-d5ee4a225a576a9c.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/8e1d74a4-0d9f970d674bf186.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\8e1d74a4-0d9f970d674bf186.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/99-96e331991b4ba92b.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\99-96e331991b4ba92b.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/app/[[...slug]]/page-79533174677b9c06.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\app\[[...slug]]\page-79533174677b9c06.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/fd9d1056-e1d52c3d9082212d.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\fd9d1056-e1d52c3d9082212d.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/main-app-2dcde4753ea0d175.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\main-app-2dcde4753ea0d175.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/chunks/webpack-3a28ba3cc3e92d7e.js?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\chunks\webpack-3a28ba3cc3e92d7e.js
+Content Type: application/javascript
+
+Uri: https://app2.oneclicktemplate.com/_next/static/css/0605a7e158cb5d18.css?dpl=dpl_6ZFyZb7zHq4dUc4g1bJY1PHiZ7Hw
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\css\0605a7e158cb5d18.css
+Content Type: text/css
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/034d78ad42e9620c-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\034d78ad42e9620c-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/29a4aea02fdee119-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\29a4aea02fdee119-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/4c285fdca692ea22-s.p.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\4c285fdca692ea22-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/6c177e25b87fd9cd-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\6c177e25b87fd9cd-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/6c9a125e97d835e1-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\6c9a125e97d835e1-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/8888a3826f4a3af4-s.p.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\8888a3826f4a3af4-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/a1386beebedccca4-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\a1386beebedccca4-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/b957ea75a84b6ea7-s.p.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\b957ea75a84b6ea7-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/db911767852bc875-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\db911767852bc875-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/eafabf029ad39a43-s.p.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\eafabf029ad39a43-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/f10b8e9d91f3edcb-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\f10b8e9d91f3edcb-s.woff2
+Content Type: font/woff2
+
+Uri: https://app2.oneclicktemplate.com/_next/static/media/fe0777f1195381cb-s.woff2
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\_next\static\media\fe0777f1195381cb-s.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/js-sha256/src/sha256.min.js
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\npm\js-sha256\src\sha256.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\app2.oneclicktemplate.com\scripts\utms\latest.js
+Content Type: text/javascript
+
